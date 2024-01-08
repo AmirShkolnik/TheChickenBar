@@ -495,5 +495,22 @@ color: rgb(243, 190, 77);;
         flex-direction: column-reverse;
         float: right;
     }
+    /* Navigation Bar */
+
+    #navigation-bar {
+        display: flex;
+        flex-direction: column-reverse;
+        float: right;
+    }
+
+    #navigation-bar>li {
+
+        letter-spacing: 2px;
+        line-height: 1.5em;
+        align-items: center;
+
+    }
+
+   
 
 }

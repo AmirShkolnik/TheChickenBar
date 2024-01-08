@@ -2,17 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-/* Body */
-
-body {
-    font-weight: 300;
-    color: white;
-    background-color: black;
-    font-family: 'inter', sans-serif;
-}
-
-html {
-    height: 100%
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
 /* headings and logo */
@@ -21,6 +14,7 @@ header {
     border-bottom: solid 10px rgb(255, 192, 55);
     height: 100px;
 }
+
 
 #navigation-bar,
 #header_logo {
@@ -90,7 +84,21 @@ h1 {
     font-size: 10vw;
     box-shadow: 5px 0px 10px black;
     background-color: rgb(0, 0, 0, .5);
+    
     width: 100%;
+}
+
+/* Home Page Above Footer Image */
+
+#home-above-footer-img {
+    height: 450px;
+    width: 100%;
+    background: url("../images/bbq-chicken.webp") no-repeat center center/cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 /* Home Page Welcome Text */
@@ -123,79 +131,6 @@ h1 {
 #welcome-text>h2 {
 
     color: white;
-}
-/* Home Page Above Footer Image */
-
-#home-above-footer-img {
-    height: 450px;
-    width: 100%;
-    background: url("../images/bbq-chicken.webp") no-repeat center center/cover;
-    position: relative;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-}
-
-/* Footer */
-#contact-us {
-    background-color: black;
-    border-top: solid 10px rgb(255, 192, 55);
-    color: rgb(255, 192, 55);
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-}
-
-#contact-us li {
-    font-size: 110%;
-    padding: 5px;
-    color: rgb(255, 192, 55);
-    
-}
-
-#contact-us>#social-icons {
-    display: flex;
-    gap: 5px;
-    color: rgb(255, 192, 55);
-
-}
-
-.icons {
-    background-color: black;
-    color: rgb(255, 192, 55);
-    font-size: 30px;
-    width: 50px;
-}
-
-.icons:hover {
-    opacity: 0.7;
-}
-
-.container-directions {
-    display: flex;
-}
-    
-.container-directions-left {
-    background: white;
-    flex-basis: 600px;
-    height: 500px;
-    margin: 0;
-    padding: 90px
-}
-
-.container-directions-right {
-    background: white;
-    width: 100%;
-    padding: 0;
-    text-align: justify;
-}
-
-.container-directions-right-inner {
-    padding: 90px;
-    width: auto;
 }
 
 /* Menu Page Header Image */
@@ -288,38 +223,38 @@ h3 {
     justify-content: center;
 }
 
-/* Order online section general*/
+/* Order Online Page - Above the Footer - Order Form and Google Map*/
 
 #order-online-header {
-    color: rgb(255, 192, 55);
-    font-size: 5vw;
-    box-shadow: 5px 0px 10px black;
-    background-color: rgb(0, 0, 0, .5);
-    width: 100%;
-
+        color: rgb(255, 192, 55);
+        font-size: 5vw;
+        box-shadow: 5px 0px 10px black;
+        background-color: rgb(0, 0, 0, .5);
+        width: 100%;
+    
 }
 
 #order-online {
-background: url("../images/bbq-chicken.webp") no-repeat center center/cover;
-display: flex;
-flex-wrap: wrap;
-background-color: rgb(0, 0, 0);
-align-items: center;
-text-align: center;
-justify-content: center;
+    background: url("../images/bbq-chicken.webp") no-repeat center center/cover;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .order-online {
-padding: 20px;
-background-color: rgb(0, 0, 0);
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
 
 }
 
 #order-online div {
 
-text-align: center;
-flex-basis: 200px;
-flex-grow: 1;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
 
 }
 
@@ -485,18 +420,90 @@ color: rgb(243, 190, 77);;
     padding-bottom: 30px;
 }
 
+/* Body */
 
+body {
+    font-weight: 300;
+    color: white;
+    font-family: 'inter', sans-serif;
+}
 
+html {
+    height: 100%
+}
+
+/* Footer */
+#contact-us {
+    background-color: black;
+    border-top: solid 10px rgb(255, 192, 55);
+    color: rgb(255, 192, 55);
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#contact-us li {
+    font-size: 110%;
+    padding: 5px;
+    color: rgb(255, 192, 55);
+    
+}
+
+#contact-us>#social-icons {
+    display: flex;
+    gap: 5px;
+    color: rgb(255, 192, 55);
+
+}
+
+.icons {
+    background-color: black;
+    color: rgb(255, 192, 55);
+    font-size: 30px;
+    width: 50px;
+}
+
+.icons:hover {
+    opacity: 0.7;
+}
+
+.container-directions {
+    display: flex;
+}
+    
+.container-directions-left {
+    background: white;
+    flex-basis: 600px;
+    height: 500px;
+    margin: 0;
+    padding: 90px
+}
+
+.container-directions-right {
+    background: white;
+    width: 100%;
+    padding: 0;
+    text-align: justify;
+}
+
+.container-directions-right-inner {
+    padding: 90px;
+    width: auto;
+}
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (min-width: 601px) {
+
+    .order-form-map {
+        max-width: 100%;
+    }
+
+}
 /* For small screens size from 600px wide and down */
 @media screen and (max-width: 600px) {
 
-    /* Navigation Bar */
-
-    #navigation-bar {
-        display: flex;
-        flex-direction: column-reverse;
-        float: right;
-    }
     /* Navigation Bar */
 
     #navigation-bar {
@@ -513,83 +520,42 @@ color: rgb(243, 190, 77);;
 
     }
 
-   /* Navigation Bar */
+    ul>li>a:hover {
+        background-color: rgb(255, 192, 55);
+        color: black;
+    }
 
-   #navigation-bar {
-    display: flex;
-    flex-direction: column-reverse;
-    float: right;
-}
+    h2 {
 
-#navigation-bar>li {
+        font-size: 6vw;
 
-    letter-spacing: 2px;
-    line-height: 1.5em;
-    align-items: center;
+    }
 
-}
-
-ul>li>a:hover {
-    background-color: rgb(255, 192, 55);
-    color: black;
-}
-
-/* Navigation Bar */
-
-#navigation-bar {
-    display: flex;
-    flex-direction: column-reverse;
-    float: right;
-}
-
-#navigation-bar>li {
-
-    letter-spacing: 2px;
-    line-height: 1.5em;
-    align-items: center;
-
-}
-
-ul>li>a:hover {
-    background-color: rgb(255, 192, 55);
-    color: black;
-}
-
-h2 {
-
-    font-size: 6vw;
-
-}
-
-/* Footer - Logo - Address - Social Icons*/
-
- /* Home Page Header Image */
-
+/* Order Page */
 .order-form-map {
-    max-height: 450px;
-    max-width: 390px;
-}
-
-#contact-us {
-    align-items: center;
-    flex-direction: column;
-    line-height: 1.5em;
-}
-
-#contact-us>#social-icons {
-    display: inline-flex;
-    padding-top: 15px;
-    gap: 5px;
-    color: rgb(255, 192, 55);
-
+    max-height: 300px;
+    max-width: 300px;
 }
 
 #order-online-header {
 
     padding-top: 10px;
     
-   
-
 }
+    /* Footer */
+
+    #contact-us {
+        align-items: center;
+        flex-direction: column;
+        line-height: 1.5em;
+    }
+
+    #contact-us>#social-icons {
+        display: inline-flex;
+        padding-top: 15px;
+        gap: 5px;
+        color: rgb(255, 192, 55);
+
+    }
 
 }

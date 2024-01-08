@@ -532,5 +532,31 @@ ul>li>a:hover {
     color: black;
 }
 
+/* Navigation Bar */
+
+#navigation-bar {
+    display: flex;
+    flex-direction: column-reverse;
+    float: right;
+}
+
+#navigation-bar>li {
+
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    align-items: center;
+
+}
+
+ul>li>a:hover {
+    background-color: rgb(255, 192, 55);
+    color: black;
+}
+
+h2 {
+
+    font-size: 6vw;
+
+}
 
 }

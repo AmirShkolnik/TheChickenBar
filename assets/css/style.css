@@ -485,6 +485,8 @@ color: rgb(243, 190, 77);;
     padding-bottom: 30px;
 }
 
+
+
 /* For small screens size from 600px wide and down */
 @media screen and (max-width: 600px) {
 
@@ -559,7 +561,14 @@ h2 {
 
 }
 
-/* Home Page Header Image */
+/* Footer - Logo - Address - Social Icons*/
+
+ /* Home Page Header Image */
+
+.order-form-map {
+    max-height: 450px;
+    max-width: 390px;
+}
 
 #contact-us {
     align-items: center;
@@ -575,5 +584,12 @@ h2 {
 
 }
 
+#order-online-header {
+
+    padding-top: 10px;
+    
+   
+
+}
 
 }

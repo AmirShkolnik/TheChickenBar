@@ -428,3 +428,33 @@ color: rgb(243, 190, 77);;
   margin-top: 5px;
   margin-bottom: 10px;
 }
+
+/* Order Online Page - Google Map*/
+
+
+#order-form-map {
+    padding: 30px;
+    background-color: black;
+    text-align: center;
+
+}
+
+#order-form-map>h2 {
+    color: rgb(255, 192, 55);
+
+}
+
+#order-form-map>hr {
+    border: 1px solid rgb(255, 192, 55);
+    width: 50%;
+    margin: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
+
+}
+
+#dish {
+    height: 100px;
+    max-width: 100%;
+    font-size: 20px;
+}

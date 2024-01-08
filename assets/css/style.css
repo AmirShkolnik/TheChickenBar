@@ -1,4 +1,30 @@
 /* Main Navigation Bar */
+/* headings and logo */
+header {
+    background-color: #000000;
+    border-bottom: solid 10px rgb(255, 192, 55);
+    height: 100px;
+}
+
+#navigation-bar,
+#header_logo {
+    line-height: 100px;
+}
+
+.logo {
+
+    max-height: 100px;
+    max-width: 100%;
+    margin: 0 0.5rem;
+    float: left;
+}
+
+a:hover .logo {
+
+    transition: all 0.1s;
+    opacity: .8;
+
+}
 
 #navigation-bar {
     font-size: 110%;

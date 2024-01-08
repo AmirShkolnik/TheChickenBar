@@ -567,4 +567,13 @@ h2 {
     line-height: 1.5em;
 }
 
+#contact-us>#social-icons {
+    display: inline-flex;
+    padding-top: 15px;
+    gap: 5px;
+    color: rgb(255, 192, 55);
+
+}
+
+
 }

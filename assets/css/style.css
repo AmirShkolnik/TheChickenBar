@@ -484,3 +484,16 @@ color: rgb(243, 190, 77);;
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+/* For small screens size from 600px wide and down */
+@media screen and (max-width: 600px) {
+
+    /* Navigation Bar */
+
+    #navigation-bar {
+        display: flex;
+        flex-direction: column-reverse;
+        float: right;
+    }
+
+}

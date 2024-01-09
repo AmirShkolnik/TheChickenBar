@@ -170,7 +170,7 @@ h1 {
     opacity: .8;
 }
 
-#days {
+.days {
 
     color: white;
     background-color: black;
@@ -181,21 +181,21 @@ h1 {
 
 }
 
-#days>hr {
+.days>hr {
     border: 0.5px solid rgb(255, 192, 55);
     margin-top: 5px;
     margin-bottom: 10px;
 
 }
 
-#days>h2,
+.days>h2,
 h3 {
     color: rgba(255, 192, 55);
     margin-bottom: 5px;
 }
 
 
-#days>a>#img_days {
+.days>a>#img_days {
 
     max-height: 200px;
     max-width: 200px;
@@ -203,7 +203,7 @@ h3 {
 
 }
 
-#days>a>#img_days:hover {
+.days>a>#img_days:hover {
 
     opacity: .8;
 

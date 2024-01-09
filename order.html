@@ -1,127 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <!--Meta tags - description and keywords -->
-     <meta name="description" content="The Chicken Bar. Fast food for chicken lovers in Chicago.">
-     <meta name="keywords"
-         content="Chicken bar Chicago, Grilled Chicken, Chicken Schnizel, Chicken Soup, Grilled Chicken Breast, Chicken Wings, Chicken Nuggets"> 
-     <!--Website Title-->
-     <title>The Chicken Bar</title>
-      <!--Css Stylesheet-->
+    <!--Meta tags - description and keywords -->
+    <meta name="description" content="The Chicken Bar. Fast food for chicken lovers in Chicago.">
+    <meta name="keywords"
+        content="Chicken bar Chicago, Grilled Chicken, Chicken Schnizel, Chicken Soup, Grilled Chicken Breast, Chicken Wings, Chicken Nuggets">
+    <!--Website Title-->
+    <title>The Chicken Bar</title>
+    <!--Css Stylesheet-->
     <link rel="stylesheet" href="assets/css/style.css">
-     <!--Favicon must have links-->
-     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <!--Favicon must have links-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
 
 </head>
+
 <body>
-     <!--Navigation Header and Logo-->
-     <header>
+    <!--Navigation Header and Logo-->
+    <header>
         <a href="index.html"> <img class="logo" src="assets/images/the-chicken-bar-logo-header.webp"
-            alt="The chicken bar logo header"></a>
-    <nav>
-        <ul id="navigation-bar">
-    
-            <li><a href="order.html">Order Online</a></li>
-            <li><a href="menu.html">Menu</a></li>
-            <li><a href="index.html">Home</a></li>
-    
-        </ul>
-    </nav>
+                alt="The chicken bar logo header"></a>
+        <nav>
+            <ul id="navigation-bar">
+
+                <li><a href="order.html">Order Online</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="index.html">Home</a></li>
+
+            </ul>
+        </nav>
     </header>
 
     <!-- Main Content-->
     <main>
-       <!--Order online and form at the beginning page-->
+        <!--Order online and form at the beginning page-->
 
-       <section id="order-online">
-        
-        <div>
-            <h1>Order Online</h1>
-        </div>
-         <!--Order Online Form-->
-         <div id="order-form">
-            <form id="order-form-left" action="thank-you.html">
-                <h2>What Do You Wish To Order?</h2>
+        <section id="order-online">
+
+            <div>
+                <h1>Order Online</h1>
+            </div>
+            <!--Order Online Form-->
+            <div id="order-form">
+                <form id="order-form-left" action="thank-you.html">
+                    <h2>What Do You Wish To Order?</h2>
+                    <br>
+                    <label for="name">Your Name</label>
+                    <input type="text" name="full_name" id="name" class="order-form-input"
+                        placeholder="First & Last Name" autocomplete="off" required>
+                    <br>
+                    <label for="email_address">Email Address</label>
+                    <input type="email" name="email_address" id="email_address" class="order-form-input" required>
+                    <br>
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" name="phone" id="phone" placeholder="123-45-678"
+                        pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" class="order-form-input" autocomplete="off" required>
+                    <br>
+                    <label for="dish">What Do You Wish To Order?</label>
+                    <textarea id="dish" name="dish" class="order-form-input" required></textarea>
+                    <br>
+                    <button type="submit"><strong>Submit Order</strong></button>
+                </form>
+            </div>
+        </section>
+
+        <!-- Visit Us - Address - Hours-->
+        <section class="order-online">
+            <h1 id="visit-us-header">Visit Us</h1>
+        </section>
+
+        <section id="visit-us">
+
+            <div>
+                <div id="address">
+                    <h2>Address</h2>
+                    <hr>
+                    <p><strong>Chicago, IL 12345</strong></p>
+
+                    <p><strong>123, New Lenox</strong></p>
+
+                    <p><strong>Phone: (123)-456-7890</strong></p>
+                </div>
+            </div>
+
+            <div id="hours">
+                <h2>Hours</h2>
+                <hr>
+                <p><strong>Monday</strong> - <strong>Friday:</strong> 11:00 am - 8:00 pm</p>
+
+                <p><strong>Saturday:</strong> 10:00 am - 8:00 pm</p>
+
+                <p><strong>Sunday:</strong> 10:00 am - 7:00 pm </p>
+            </div>
+
+        </section>
+
+        <!--Map and Navigate to Our Chicken Paradise section-->
+
+        <section class="order-online"></section>
+
+        <section class="visit-us">
+
+
+            <section id="order-form-map">
+
+                <h2>Navigate to Our Chicken Paradise</h2>
+                <hr>
                 <br>
-                <label for="name">Your Name</label>
-                <input type="text" name="full_name" id="name" class="order-form-input" placeholder="First & Last Name" autocomplete="off" required>
-                <br>
-                <label for="email_address">Email Address</label>
-                <input type="email" name="email_address" id="email_address" class="order-form-input" required>
-                <br>
-                <label for="phone">Phone Number</label>
-                <input type="tel" name="phone" id="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" class="order-form-input" autocomplete="off" required>
-                <br>
-                <label for="dish">What Do You Wish To Order?</label>
-                <textarea id="dish" name="dish" class="order-form-input" required></textarea>
-                <br>
-                <button type="submit"><strong>Submit Order</strong></button>
-            </form>
-        </div>
-    </section>
+                <iframe class="order-form-map"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4925.184187354226!2d11.96852431993614!3d57.7085846110662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff3b919ff3491%3A0x57a3ed69eddfdefb!2sKebaberia!5e0!3m2!1sen!2sse!4v1703624616045!5m2!1sen!2sse"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-       <!-- Visit Us - Address - Hours-->
-       <section class="order-online">
-        <h1 id="visit-us-header">Visit Us</h1>
-    </section>
-
-    <section id="visit-us">
-       
-        <div>
-            <div id="address">
-            <h2>Address</h2>
-            <hr>
-            <p><strong>Chicago, IL 12345</strong></p>
-            
-            <p><strong>123, New Lenox</strong></p>
-            
-            <p><strong>Phone: (123)-456-7890</strong></p>
-</div>
-        </div>
-          
-         <div id="hours">
-            <h2>Hours</h2>
-            <hr>
-            <p><strong>Monday</strong> - <strong>Friday:</strong> 11:00 am - 8:00 pm</p>
-            
-            <p><strong>Saturday:</strong> 10:00 am - 8:00 pm</p>
-            
-            <p><strong>Sunday:</strong> 10:00 am - 7:00 pm </p>
-        </div>
-
-    </section>
-
-       <!--Map and Navigate to Our Chicken Paradise section-->
-
-       <section class="order-online"></section>
-
-       <section class="visit-us">
-
-
-       <section id="order-form-map">
-           
-           <h2>Navigate to Our Chicken Paradise</h2>
-           <hr>
-           <br>
-           <iframe class="order-form-map"
-               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4925.184187354226!2d11.96852431993614!3d57.7085846110662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff3b919ff3491%3A0x57a3ed69eddfdefb!2sKebaberia!5e0!3m2!1sen!2sse!4v1703624616045!5m2!1sen!2sse"
-               width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-               referrerpolicy="no-referrer-when-downgrade"></iframe>
-           
-           </section>
-
-       <!-- Image at the end of the order page-->
-       <section id="header-chicken-img">
-    </section>
+                <!-- Image at the end of the order page-->
+                <div id="header-chicken-img">
+                </div>
+            </section>
 
     </main>
 
-       <!-- Footer - logo - address - social media icons-->
-       <footer>
+    <!-- Footer - logo - address - social media icons-->
+    <footer>
         <ul id="contact-us">
             <li>
                 <a href="index.html"> <img class="logo" src="assets/images/the-chicken-bar-logo-header.webp"
@@ -137,7 +140,7 @@
 
             </li>
             <li id="social-icons">
-                    <a class="icons" href="https://www.youtube.com/" target="_blank" rel="noopener"
+                <a class="icons" href="https://www.youtube.com/" target="_blank" rel="noopener"
                     aria-label="Visit our YouTube page (opens in a new tab)">
                     <i class="fa-brands fa-youtube-square"></i></a>
                 <a class="icons" href="https://www.facebook.com/" target="_blank" rel="noopener"
@@ -149,7 +152,8 @@
             </li>
         </ul>
     </footer>
-<!-- Font Awesome kit -->
-<script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
 </body>
+
 </html>

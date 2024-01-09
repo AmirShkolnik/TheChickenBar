@@ -513,6 +513,7 @@ html {
         display: flex;
         flex-direction: column-reverse;
         float: right;
+
     }
 
     #navigation-bar>li {
@@ -560,6 +561,25 @@ html {
         gap: 5px;
         color: rgb(255, 192, 55);
 
+    }
+        /* For small screens size from 600px wide and down */
+@media screen and (max-width: 300px) {
+
+    /* Navigation Bar */
+
+    #navigation-bar {
+        
+        width: 20%;
+        margin-right: 20px;
+        margin-top: 15px;
+    }
+
+    /* Order Page */
+    .order-form-map {
+        max-height: 220px;
+        max-width: 220px;
+    }
+    
     }
 
 }

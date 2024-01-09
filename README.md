@@ -45,9 +45,13 @@ When you're hungry, you want food right away, ordering food online should be eas
 
   - The header is responsive and on smaller screens the logo will get smaller and the navigation bar will be presented vertically.
 
+### Desktop:
 
 ![Header](../TheChickenBar/assets/images/chickenbar-navbar.png)
 
+### Mobile:
+
+![Header](../TheChickenBar/assets/images/chickenbar-navbar-mob.png)
 
 - __Home Page - Welcome__
 

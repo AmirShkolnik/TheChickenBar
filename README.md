@@ -13,25 +13,6 @@ Our mission is to elevate chicken cuisine to new heights. It's not just about th
 
 ## Features and User Experience
 
-### Existing Features
 
-- __Header - Navigation Bar and clickable logo__
-
-  - The header is made up of two parts: a clickable logo on the left and a navigation bar on the right.
-
-  - The header is present throughout the entire website on every page. Visitors can easily navigate from page to page.
-
-  - The header is responsive and on smaller screens the logo will get smaller and the navigation bar will be presented vertically.
-
-
-![Header](../TheChickenBar/assets/images/chickenbar-navbar.png)
-
-
-- __Home Page - Welcome__
-
-  - 
-  - 
-
-![Home Page](../TheChickenBar/assets/images/chickenbar-home.png)
 
 

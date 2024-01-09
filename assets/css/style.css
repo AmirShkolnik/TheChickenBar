@@ -24,7 +24,7 @@ header {
 .logo {
 
     max-height: 100px;
-    max-width: 100%;
+    max-width: 168px;
     margin: 0 0.5rem;
     float: left;
 }
@@ -35,6 +35,7 @@ a:hover .logo {
     opacity: .8;
 
 }
+
 
 /* Main Navigation Bar */
 
@@ -495,6 +496,26 @@ html {
     width: auto;
 }
 
+/* Footer Logo */
+
+
+
+.logo_footer {
+
+    max-height: 100px;
+    max-width: 168px;
+    margin: 0 0.5rem;
+    float: left;
+}
+
+a:hover .logo_footer {
+
+    transition: all 0.1s;
+    opacity: .8;
+
+}
+
+
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (min-width: 601px) {
 
@@ -579,6 +600,14 @@ html {
     .order-form-map {
         max-height: 220px;
         max-width: 220px;
+    }
+
+    .logo {
+
+        width: 50%;
+        height: auto;
+        margin-top: 15px;
+
     }
 
     }

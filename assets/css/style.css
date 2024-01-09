@@ -513,6 +513,7 @@ html {
         display: flex;
         flex-direction: column-reverse;
         float: right;
+        margin-top: 15px;
 
     }
 
@@ -579,7 +580,7 @@ html {
         max-height: 220px;
         max-width: 220px;
     }
-    
+
     }
 
 }

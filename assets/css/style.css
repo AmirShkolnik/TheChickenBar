@@ -244,6 +244,12 @@ h3 {
     justify-content: center;
 }
 
+.order-online {
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+
+}
+
 #order-online div {
 
     text-align: center;

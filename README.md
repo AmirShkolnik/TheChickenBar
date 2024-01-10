@@ -11,7 +11,9 @@ This site is specifically targeted toward chicken and meat lovers, who will find
 
 They can order their favorite dishes online and pick them up within 15 minutes of placing their order.
 
-![Responsice Mockup](../TheChickenBar/assets/images/thechickenbar.webp)
+The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.io/TheChickenBar/)
+
+![Am I Responsive Image](../TheChickenBar/README/img/thechickenbar.webp)
 
 ## Project Goals
 
@@ -58,5 +60,177 @@ When you're hungry, you want food right away, ordering food online should be eas
   - 
   - 
 
+
 ![Home Page](../TheChickenBar/assets/images/chickenbar-home.png)
 
+-------------------------
+
+## Site Owner Goals 
+
+
+## User Stories
+- ### First time user
+  
+
+- ### Returning User
+  
+- ### Frequent User
+  
+
+## Design
+
+### Imagery
+
+
+### Colours
+ 
+
+### Fonts
+
+
+## Wireframes
+
+## Features
+- ### Navigation
+
+    - The fully responsive navigation bar includes links to the Home, Menu and Order pages. 
+
+![Nav bar image](xxx)
+
+- ### The Landing Page Image
+
+![Landing page image](xxx) 
+
+- ### About Section
+
+![Menu Page Image](xxx)
+    
+
+![Order Page Image](xxx)
+  
+- ### Order Form Section
+
+![Form Section Image](xxx) 
+
+- ### Visit Us Section
+
+![Visit Us Section Image](xxx) 
+
+- ### Map Section
+
+![Map Section Image](xxx) 
+
+- ### Footer
+
+![Footer image](xxx)
+
+### Features Left to Implement
+- Burger button for the mobile nav bar.
+
+## Testing
+
+### Validator Testing
+- #### HTML
+    - No errors were returned when passing through the official W3C Markup Validator
+        - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
+        https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fmenu.html
+        https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Forder.html
+        https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fthank-you.html
+
+        - ![W3C Validator Results](README/img/html-checker-chicken.png)
+
+- #### CSS
+    - No errors were found when passing through the official W3C CSS Validator 
+        - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+       ![W3C CSS Validator Results](README/img/css-valid-chicken.png)
+- #### Accessibility 
+    - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
+
+![Lighthouse score](xxx)
+
+
+### Form Testing
+- The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
+
+### Links Testing
+- All navigation links were tested manually to ensure the user is directed to the correct section of the website.
+- Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
+
+### Browser Testing
+- The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
+    
+### Device Testing
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
+- I also used the following websites to test responsiveness:
+    - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
+    - [Am I Responsive](https://ui.dev/amiresponsive?url=https://amirshkolnik.github.io/TheChickenBar/)
+
+
+### Friends and Family User Testing
+
+
+### Fixed Bugs
+#### 
+
+### Known Bugs
+
+
+## Technologies Used
+
+### Languages
+- HTML5
+- CSS
+
+### Frameworks - Libraries - Programs Used
+- [Am I Responsive](http://ami.responsivedesign.is/) - Used to verify responsiveness of website on different devices.
+- [Responsinator](http://www.responsinator.com/) - Used to verify responsiveness of website on different devices.
+- [Balsamiq](https://balsamiq.com/) - Used to generate Wireframe images.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and tweaking, including testing responsiveness and performance.
+- [Font Awesome](https://fontawesome.com/) - Used for Social Media icons in footer.
+- [GitHub](https://github.com/) - Used for version control and hosting.
+- [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
+- [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
+- [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
+
+
+## Deployment
+
+The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
+
+1. Go to the repository on GitHub.com
+2. Select 'Settings' near the top of the page.
+3. Select 'Pages' from the menu bar on the left of the page.
+4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
+5. Once selected, click the 'Save'.
+6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
+
+The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.io/TheChickenBar/)
+
+## Credits
+
+### Content
+All educational yoga content was sourced from the below websites:
+- [Yoga Journal](https://www.yogajournal.com)
+- [Amayaan](https://www.amayaan.com/)
+- [Ekhart Yoga](https://www.ekhartyoga.com)
+- [Mind Body Green](https://www.mindbodygreen.com)
+- [Class Pass](https://classpass.com)
+- [Art of Living](https://www.artofliving.org)
+
+### Media
+All images and videos were sourced from the below websites with thanks to the below amazing photographers/videographers
+- [Pexels](https://www.pexels.com/)
+    
+- [Pixaby](https://pixaby.com/)
+   
+
+### Resources Used
+
+- Inspiration for dropdown nav bar - [W3Schools](https://www.w3schools.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+
+## Acknowledgments
+My mentor Antonio for his support and advice.
+
+The Code Institute slack community for their quick responses and very helpful feedback!

@@ -49,11 +49,11 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ### Desktop:
 
-![Header](../TheChickenBar/assets/images/chickenbar-navbar.png)
+![Header](README/img/chickenbar-navbar.png)
 
 ### Mobile:
 
-![Header](../TheChickenBar/assets/images/chickenbar-navbar-mob.png)
+![Header](README/img/chickenbar-navbar-mob.png)
 
 - __Home Page - Welcome__
 
@@ -61,7 +61,7 @@ When you're hungry, you want food right away, ordering food online should be eas
   - 
 
 
-![Home Page](../TheChickenBar/assets/images/chickenbar-home.png)
+![Home Page](README/img/chickenbar-home.png)
 
 -------------------------
 

@@ -83,10 +83,9 @@ h1 {
 
     color: rgb(255, 192, 55);
     text-transform: uppercase;
-    font-size: 10vw;
+    font-size:8vw;
     box-shadow: 5px 0px 10px black;
     background-color: rgb(0, 0, 0, .5);
-
     width: 100%;
 }
 
@@ -522,6 +521,17 @@ a:hover .logo_footer {
 
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (min-width: 601px) {
+
+/* Home page */
+
+    #welcome-text {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    /* order page - Map*/
 
     .order-form-map {
         max-width: 100%;

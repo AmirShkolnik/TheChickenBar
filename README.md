@@ -235,17 +235,18 @@ All images and videos were sourced from the below websites with thanks to the be
     - Leonardo Luz - Menu Page - Chicken Nuggets
     - Christine Cleireny - Menu Page - Grilled Chicken Breast
     - ENESFİLM - Menu Page - Mix Grill
+    - Valeriia Yevchinets - Order Page - Hero Image
 
-    
 - [Pixaby](https://pixaby.com/)
+    - 13smok - Logo illustraion/vectors
+    - Clker-Free-Vector-Images - Favicon
    
-
 ### Resources Used
 
-- Inspiration for dropdown nav bar - [W3Schools](https://www.w3schools.com/)
+- [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 
 ## Acknowledgments
-My mentor Antonio for his support and advice.
+My mentor, Antonio Rodriguez, for his support and guidance.
 
-The Code Institute slack community for their quick responses and very helpful feedback!
+Thank you to the Code Institute Slack community for their quick responses and helpful feedback!

@@ -223,7 +223,7 @@ I got inspired for the content and design from the following websites:
 
 
 ### Media
-All images and videos were sourced from the below websites with thanks to the below amazing photographers/videographers
+All images and videos were sourced from the below websites with thanks to the below amazing photographers:
 - [Pexels](https://www.pexels.com/)
     - Dee Dave - Home page - Hero Image
     - Oliver Sjöström - Guy Holding Chicken Burger

@@ -102,15 +102,21 @@ h1 {
     justify-content: center;
 }
 
-/* Home Page Welcome Video */
+/* Video */
 
 #video-welcome {
     width: 100%;
     position: relative;
 }
 
+#video-thank-you {
+    width: 100%;
+    position: relative;
+
+}
+
 #video-menu {
-    height: 450px;
+    height: 640x;
     width: 100%;
     object-fit: cover;
 }

@@ -168,10 +168,12 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 
 ### Friends and Family User Testing
-
+Friends and family were asked to check the site and documents for any problems or issues.
 
 ### Fixed Bugs
 #### 
+Order form - phone number format 123-45-678 is to complicated. We are not use to use "-" this must be fixed.
+Thank you page text section is to wide for bigger screens
 
 ### Known Bugs
 
@@ -184,7 +186,7 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ### Frameworks - Libraries - Programs Used
 
-- [Affinity Photo] - Photo Editing Program.
+- Affinity Photo - Photo Editing Program.
 - [Am I Responsive](http://ami.responsivedesign.is/) - Used to verify responsiveness of website on different devices.
 - [Responsinator](http://www.responsinator.com/) - Used to verify responsiveness of website on different devices.
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and tweaking, including testing responsiveness and performance.
@@ -213,8 +215,8 @@ The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.
 ### Content
 I got inspired for the template and design from the following websites:
 
-- [chick-demo](https://chik-demo.myshopify.com/)
-- [Treatos-demo](https://preview.themeforest.net/item/treatos-authentic-restaurant-theme/full_screen_preview/25629199?_ga=2.149811830.1152558158.1704960033-426616010.1703934873)
+- [Chick Demo](https://chik-demo.myshopify.com/)
+- [Treatos Demo](https://preview.themeforest.net/item/treatos-authentic-restaurant-theme/full_screen_preview/25629199?_ga=2.149811830.1152558158.1704960033-426616010.1703934873)
 
 I got inspired for the content and design from the following websites:
 

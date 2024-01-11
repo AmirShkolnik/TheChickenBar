@@ -167,17 +167,16 @@ When you're hungry, you want food right away, ordering food online should be eas
     - [Am I Responsive](https://ui.dev/amiresponsive?url=https://amirshkolnik.github.io/TheChickenBar/)
 
 
-### Friends and Family User Testing
+### User Experience - Friends and Family User Testing
 Friends and family were asked to check the site and documents for any problems or issues.
 
 #### Order Form
 
  - When asking for phone numbers on the order form, some testers found the 123-45-678 format confusing. They couldn't enter "-" symbols on their mobile devices. So, I changed the format to 1112223333, which is easier to enter on both mobile and desktop devices.
 
-#### Order Form
+#### Home and Thank You Page Text On Large Screen
 
- - With the help of 
-Thank you page text section is to wide for bigger screens
+ - When I initially implemented the text sections for the home and the thank you pages, I set them with a width of 100%. All testers found the result annoying because the text was taking up too much space and testers had difficulty reading and enjoying the site. I changed the width to 70%.
 
 ### Fixed Bugs
 
@@ -260,6 +259,7 @@ I used images, vectors, and illustrations from the following websites with thank
     - Christine Cleireny - Menu Page - Grilled Chicken Breast
     - ENESFİLM - Menu Page - Mix Grill
     - Valeriia Yevchinets - Order Page - Hero Image
+    - Athal Kumar - Home Page - Footer Video
 
 - [Pixaby](https://pixaby.com/)
     - 13smok - Logo illustraion/vectors

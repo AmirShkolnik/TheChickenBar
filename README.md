@@ -183,14 +183,15 @@ When you're hungry, you want food right away, ordering food online should be eas
 - CSS
 
 ### Frameworks - Libraries - Programs Used
+
+- [Affinity Photo] - Photo Editing Program.
 - [Am I Responsive](http://ami.responsivedesign.is/) - Used to verify responsiveness of website on different devices.
 - [Responsinator](http://www.responsinator.com/) - Used to verify responsiveness of website on different devices.
-- [Balsamiq](https://balsamiq.com/) - Used to generate Wireframe images.
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and tweaking, including testing responsiveness and performance.
 - [Font Awesome](https://fontawesome.com/) - Used for Social Media icons in footer.
 - [GitHub](https://github.com/) - Used for version control and hosting.
 - [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
-- [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
+- [Convertio](https://convertio.co/) - Used to convert and compress images to reduce file size without a reduction in quality.
 - [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
 
 
@@ -211,10 +212,12 @@ The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.
 
 ### Content
 I got inspired for the template and design from the following websites:
+
 - [chick-demo](https://chik-demo.myshopify.com/)
 - [Treatos-demo](https://preview.themeforest.net/item/treatos-authentic-restaurant-theme/full_screen_preview/25629199?_ga=2.149811830.1152558158.1704960033-426616010.1703934873)
 
 I got inspired for the content and design from the following websites:
+
 - [bb.9 Chicken](https://bbqchickenca.com/)
 - [El Pollo Loco](https://www.elpolloloco.com/)
 - [Wendy](https://www.wendys.com/en-uk/)

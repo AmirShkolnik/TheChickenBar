@@ -210,13 +210,16 @@ The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.
 ## Credits
 
 ### Content
-All educational yoga content was sourced from the below websites:
-- [Yoga Journal](https://www.yogajournal.com)
-- [Amayaan](https://www.amayaan.com/)
-- [Ekhart Yoga](https://www.ekhartyoga.com)
-- [Mind Body Green](https://www.mindbodygreen.com)
-- [Class Pass](https://classpass.com)
-- [Art of Living](https://www.artofliving.org)
+I got inspired for the template and design from the following websites:
+- [chick-demo](https://chik-demo.myshopify.com/)
+- [Treatos-demo](https://preview.themeforest.net/item/treatos-authentic-restaurant-theme/full_screen_preview/25629199?_ga=2.149811830.1152558158.1704960033-426616010.1703934873)
+
+I got inspired for the content and design from the following websites:
+- [bb.9 Chicken](https://bbqchickenca.com/)
+- [El Pollo Loco](https://www.elpolloloco.com/)
+- [Wendy](https://www.wendys.com/en-uk/)
+- [Galitos](https://galitoschicken.com/)
+
 
 ### Media
 All images and videos were sourced from the below websites with thanks to the below amazing photographers/videographers

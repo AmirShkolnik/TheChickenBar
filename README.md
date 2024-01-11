@@ -172,13 +172,16 @@ Friends and family were asked to check the site and documents for any problems o
 
 ### Fixed Bugs
 #### 
-Order form - phone number format 123-45-678 is to complicated. We are not use to use "-" this must be fixed.
+Order form - phone number format 123-45-678 is to complicated. We are not use to use "-" this must be fixed. 
+
+With the hep of 
 Thank you page text section is to wide for bigger screens
 
 ### Known Bugs
 
 
 ## Technologies Used
+
 
 ### Languages
 - HTML5

@@ -245,7 +245,7 @@ I got inspired for the content and design from the following websites:
 - [Mediterran](https://www.mediterraneanliving.com/grilled-turmeric-chicken/)
 
 ### Media
-I used images, vectors, and illustrations from the following websites with thanks to the amazing photographers who created them.:
+I used videos, images, vectors, and illustrations from the following websites with thanks to the amazing photographers who created them.:
 
 - [Pexels](https://www.pexels.com/)
     - Dee Dave - Home page - Hero Image
@@ -259,7 +259,9 @@ I used images, vectors, and illustrations from the following websites with thank
     - Christine Cleireny - Menu Page - Grilled Chicken Breast
     - ENESFİLM - Menu Page - Mix Grill
     - Valeriia Yevchinets - Order Page - Hero Image
-    - Athal Kumar - Home Page - Footer Video
+    - Athal Kumar - Menu - Video
+    - Karolina Grabowska - Home Page - Video
+    - RDNE Stock project - Thank You - Video
 
 - [Pixaby](https://pixaby.com/)
     - 13smok - Logo illustraion/vectors

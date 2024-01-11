@@ -108,7 +108,7 @@ h1 {
     position: relative;
 }
 
-video {
+#video-menu {
     height: 450px;
     width: 100%;
     object-fit: cover;

@@ -221,9 +221,9 @@ I got inspired for the content and design from the following websites:
 - [Galitos](https://galitoschicken.com/)
 - [Mediterran](https://www.mediterraneanliving.com/grilled-turmeric-chicken/)
 
-
 ### Media
-All images and videos were sourced from the below websites with thanks to the below amazing photographers:
+I used images, vectors, and illustrations from the following websites with thanks to the amazing photographers who created them.:
+
 - [Pexels](https://www.pexels.com/)
     - Dee Dave - Home page - Hero Image
     - Oliver Sjöström - Guy Holding Chicken Burger
@@ -243,8 +243,10 @@ All images and videos were sourced from the below websites with thanks to the be
    
 ### Resources Used
 
+- Code Institute Slack community
 - [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+
 
 ## Acknowledgments
 My mentor, Antonio Rodriguez, for his support and guidance.

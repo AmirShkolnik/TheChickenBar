@@ -170,8 +170,24 @@ When you're hungry, you want food right away, ordering food online should be eas
 ### Friends and Family User Testing
 Friends and family were asked to check the site and documents for any problems or issues.
 
+#### Order Form
+
+ - When asking for phone numbers on the order form, some testers found the 123-45-678 format confusing. They couldn't enter "-" symbols on their mobile devices. So, I changed the format to 1112223333, which is easier to enter on both mobile and desktop devices.
+
+#### Order Form
+
+ - With the help of 
+Thank you page text section is to wide for bigger screens
+
 ### Fixed Bugs
-#### 
+
+#### Using Class Instead of ID
+
+When I first made my menu page, I used the same ID for all the dishes. This caused an error because the ID had to be unique. After learning the difference between IDs and classes, I fixed the error.
+
+#### Responsive Map
+
+
 Order form - phone number format 123-45-678 is to complicated. We are not use to use "-" this must be fixed. 
 
 With the hep of 

@@ -219,11 +219,23 @@ I got inspired for the content and design from the following websites:
 - [El Pollo Loco](https://www.elpolloloco.com/)
 - [Wendy](https://www.wendys.com/en-uk/)
 - [Galitos](https://galitoschicken.com/)
+- [Mediterran](https://www.mediterraneanliving.com/grilled-turmeric-chicken/)
 
 
 ### Media
 All images and videos were sourced from the below websites with thanks to the below amazing photographers/videographers
 - [Pexels](https://www.pexels.com/)
+    - Dee Dave - Home page - Hero Image
+    - Oliver Sjöström - Guy Holding Chicken Burger
+    - Karolina Grabowska - Home Page Closing Image - Chicken Plate
+    - Lukas - Menu Page - Chicken Schnizel
+    - HM Grand Central Hotel - Menu Page - Chicken Soup
+    - Valeria Boltneva - Menu Page - Chicken Sandwich
+    - Alena Shekhovtcova - Menu Page - Chicken Wings
+    - Leonardo Luz - Menu Page - Chicken Nuggets
+    - Christine Cleireny - Menu Page - Grilled Chicken Breast
+    - ENESFİLM - Menu Page - Mix Grill
+
     
 - [Pixaby](https://pixaby.com/)
    

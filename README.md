@@ -125,13 +125,15 @@ When you're hungry, you want food right away, ordering food online should be eas
 ![Footer image](xxx)
 
 ### Features Left to Implement
+- I want to change all the hero images to videos for better User Experience.
+- Make the order form simpler. Instead of typing what you want to order, you should be able to click and choose the number of meals from each dish.
 - Burger button for the mobile nav bar.
 
 ## Testing
 
 ### Validator Testing
 - #### HTML
-    - No errors were returned when passing through the official W3C Markup Validator see below or click the links to see the results for each page.
+No errors were returned when passing through the official W3C Markup Validator see below or click the links to see the results for each page.
 - Home Page - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
 - Menu Page - [W3C Validator Results - Menu Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fmenu.html)
 - Order Page - [W3C Validator Results - Order Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Forder.html)

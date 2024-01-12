@@ -158,14 +158,14 @@ When you're hungry, you want food right away, ordering food online should be eas
 - Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
 
 ### Browser Testing
-- The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
+- I checked the website on Google Chrome, Firefox, Microsoft Edge, and Safari browsers, and everything was fine with no problems.
     
 ### Device Testing
 - I checked and tested the website on different devices like Desktop, Laptop, Samsung S21, and 14A, iPhone 12 PRO, and 14 PRO to make sure it works well on different screen sizes.
 
 The website worked as I wanted it to. I also used Chrome developer tools on all the devices to test the responsive design, and it stayed intact for all sizes.
 
-I also tried the website on the following websites to test its responsiveness:
+- I also tried the website on the following websites to test its responsiveness:
 
     - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
     - [Am I Responsive](https://ui.dev/amiresponsive?url=https://amirshkolnik.github.io/TheChickenBar/)

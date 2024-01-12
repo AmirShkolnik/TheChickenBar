@@ -83,9 +83,14 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 
 ### Colours
- 
+
+- The colour scheme of the website is yellow rgb(255, 192, 55), black and white. 
+
+- Color influences consumers not only on the conscious level but also on the subconscious level. Color and food pairings can be especially powerful by leveraging the emotional connection to taste
 
 ### Fonts
+
+The main font used on the entire site is called 'Inter.' Additionally, I have Sans Serif set up as a backup font. This way, if, for some reason, the main font doesn't load correctly on the site, Sans Serif will be used instead.
 
 ## Features
 
@@ -122,7 +127,7 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ### Footer
 
-- The footer page contains our logo, contact information, and social media links. Clicking on them will open new tabs with the relevant social channels.
+- The footer contains our logo, contact information, and social media links. Clicking on them will open new tabs with the relevant social channels like Yotube, Instagram and Meta/Facebook.
 
 ![Footer image](README/img/thechickenbar-footer.png)
 

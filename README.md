@@ -161,8 +161,12 @@ When you're hungry, you want food right away, ordering food online should be eas
 - The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
     
 ### Device Testing
-- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
-- I also used the following websites to test responsiveness:
+- I checked and tested the website on different devices like Desktop, Laptop, Samsung S21, and 14A, iPhone 12 PRO, and 14 PRO to make sure it works well on different screen sizes.
+
+The website worked as I wanted it to. I also used Chrome developer tools on all the devices to test the responsive design, and it stayed intact for all sizes.
+
+I also tried the website on the following websites to test its responsiveness:
+
     - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
     - [Am I Responsive](https://ui.dev/amiresponsive?url=https://amirshkolnik.github.io/TheChickenBar/)
 

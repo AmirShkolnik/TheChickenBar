@@ -81,6 +81,7 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ### Imagery
 
+The Chicken Bar is full of colorful images showcasing grilled chicken and delicious chicken based dishes. It's like a visual menu of tasty options, making customers feel confident they'll find their perfect chicken dish.
 
 ### Colours
 

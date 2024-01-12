@@ -1,5 +1,5 @@
 
-![chicken bar logo](assets/images/chicken-bar-logo.png) 
+![chicken bar logo](/assets/images/chicken-bar-logo.png) 
 
 # The Chicken Bar 
 

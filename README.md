@@ -1,5 +1,5 @@
 
-![chicken bar logo](../TheChickenBar/assets/images/chicken-bar-logo.png) 
+![chicken bar logo](assets/images/chicken-bar-logo.png) 
 
 # The Chicken Bar 
 
@@ -11,7 +11,7 @@ The best part? Visitors can fill out a straightforward order form and pick up th
 
 The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.io/TheChickenBar/)
 
-![Am I Responsive Image](../TheChickenBar/README/img/thechickenbar.webp)
+![Am I Responsive Image](/README/img/thechickenbar.webp)
 
 ## Project and Site Owner Goals
 

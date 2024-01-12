@@ -95,37 +95,44 @@ When you're hungry, you want food right away, ordering food online should be eas
 
     - The fully responsive navigation bar includes links to the Home, Menu and Order pages. 
 
-![Nav bar image](xxx)
+### Desktop:
+
+![Header](README/img/chickenbar-navbar.png)
+
+### Mobile:
+
+![Header](README/img/chickenbar-navbar-mob.png)
 
 - ### The Landing Page Image
 
-![Landing page image](xxx) 
+![Landing page image](README/img/thechickenbar-home-page.png)
 
-- ### About Section
+- ### The Menu Page Image
 
-![Menu Page Image](xxx)
+![Menu Page Image](README/img/thechickenbar-menu-page.png)
     
+### The Order Page Image
 
-![Order Page Image](xxx)
+![Order Page Image](README/img/thechickenbar-order-page.png)
   
 - ### Order Form Section
 
-![Form Section Image](xxx) 
+![Form Section Image](README/img/thechickenbar-order-form.png) 
 
 - ### Visit Us Section
 
-![Visit Us Section Image](xxx) 
+![Visit Us Section Image](README/img/thechickenbar-visit-us.png) 
 
 - ### Map Section
 
-![Map Section Image](xxx) 
+![Map Section Image](README/img/thechickenbar-map.png) 
 
 - ### Footer
 
-![Footer image](xxx)
+![Footer image](README/img/thechickenbar-footer.png)
 
 ### Features Left to Implement
-- I want to change all the hero images to videos for better User Experience.
+- I want to replace all the main pictures with videos to make the user experience better.
 - Make the order form simpler. Instead of typing what you want to order, you should be able to click and choose the number of meals from each dish.
 - Burger button for the mobile nav bar.
 

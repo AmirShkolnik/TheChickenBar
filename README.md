@@ -60,11 +60,11 @@ The entire menu revolves around the delectable world of chicken. However, on Sun
 
 The Chicken Bar is full of colorful images showcasing grilled chicken and delicious chicken based dishes. It's like a visual menu of tasty options, making customers feel confident they'll find their perfect chicken dish.
 
-### Colours
+### Colors
 
 - The colour scheme of the website is yellow rgb(255, 192, 55), black and white. 
 
-- Color influences consumers not only on the conscious level but also on the subconscious level. Color and food pairings can be especially powerful by leveraging the emotional connection to taste
+- Color influences consumers not only on the conscious level but also on the subconscious level. Color and food pairings can be especially powerful by leveraging the emotional connection to taste. Source - [Jenny David](https://jenndavid.com/)
 
 ### Fonts
 

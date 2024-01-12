@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 ![chicken bar logo](/assets/images/chicken-bar-logo.png) 
+=======
+![chicken bar logo](assets/images/chicken-bar-logo.png) 
+>>>>>>> a8ea0a6 (readme - fix logo path)
 
 # The Chicken Bar 
 

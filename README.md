@@ -131,17 +131,17 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ### Validator Testing
 - #### HTML
-    - No errors were returned when passing through the official W3C Markup Validator
-[W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
-[W3C Validator Results - Menu Page] https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fmenu.html
-        https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Forder.html
-        https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fthank-you.html
+    - No errors were returned when passing through the official W3C Markup Validator see below or click the links to see the results for each page.
+- Home Page - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
+- Menu Page - [W3C Validator Results - Menu Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fmenu.html)
+- Order Page - [W3C Validator Results - Order Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Forder.html)
+- Thank You Page - [W3C Validator Results - Thank You Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fthank-you.html)
 
-[W3C Validator Results](README/img/html-checker-chicken.png)
+![W3C Validator Results](README/img/html-checker-chicken.png)
 
 #### CSS
 
-- [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - No errors were found when passing through the official W3C CSS Validator, see below or click the link.
+- No errors were found when passing through the official W3C CSS Validator, see below or click the link - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 ##### W3C CSS Validator Results
 

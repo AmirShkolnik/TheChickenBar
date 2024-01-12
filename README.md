@@ -143,7 +143,7 @@ No errors were returned when passing through the official W3C Markup Validator s
 
 #### Accessibility 
 
-- The site achieved a Lighthouse accessibility score of 100% for mobile and pc which confirms that the colours and fonts chosen are easy to read and accessible.
+- The site achieved a Lighthouse accessibility score of 100% for mobile and pc which confirms that the colors and fonts chosen are easy to read and accessible.
 
 ##### Lighthouse Score For PC
 

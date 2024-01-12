@@ -87,13 +87,11 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ### Fonts
 
-
-## Wireframes
-
 ## Features
+
 - ### Navigation
 
-    - The fully responsive navigation bar includes links to the Home, Menu and Order pages. 
+    - The fully responsive navigation bar includes links to the Home, Menu and Order pages.
 
 ### Desktop:
 
@@ -103,31 +101,28 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 ![Header](README/img/chickenbar-navbar-mob.png)
 
-- ### The Landing Page Image
+### The Home / Welcome Page
+  - The home page has an image with a welcoming headline. Right away, visitors feel like they're in the right place. This section gives users a clear visual idea of what the site is all about.
 
 ![Landing page image](README/img/thechickenbar-home-page.png)
 
-- ### The Menu Page Image
+### The Menu Page
+
+  - The menu page contains seven different kinds of dishes that the customer can choose from. They can select their favorite dish and click the order button, which will lead them to the order page where they can place an order.
 
 ![Menu Page Image](README/img/thechickenbar-menu-page.png)
     
-### The Order Page Image
+### The Order Page
+
+- At the order page, customers will find all the information they need about our chicken bar, such as opening hours, address, and even a map. 
+
+- The main feature on this page is the order form. By using the order form, they can place an order. The form is designed so customers must fill in all necessary fields before they can place an order.
 
 ![Order Page Image](README/img/thechickenbar-order-page.png)
-  
-- ### Order Form Section
 
-![Form Section Image](README/img/thechickenbar-order-form.png) 
+### Footer
 
-- ### Visit Us Section
-
-![Visit Us Section Image](README/img/thechickenbar-visit-us.png) 
-
-- ### Map Section
-
-![Map Section Image](README/img/thechickenbar-map.png) 
-
-- ### Footer
+- The footer page contains our logo, contact information, and social media links. Clicking on them will open new tabs with the relevant social channels.
 
 ![Footer image](README/img/thechickenbar-footer.png)
 

@@ -5,17 +5,15 @@
 
 ## Introduction
 
-Welcome to The Chicken Bar website, where our entire menu (Monday through Friday) is dedicated to the delectable world of chicken. However, on Sundays, we switch things up and proudly serve a tantalizing array of mixed grilled meats. 
+The Chicken Bar website is designed to provide a quick and simple solution for hungry individuals. Dedicated to a crowd that loves and appreciates high-quality, flavorful chicken dishes, Chicken Bar offers a selection of 7 special daily menus.
 
-This site is specifically targeted toward chicken and meat lovers, who will find a unique and special dish on offer every day. 
-
-They can order their favorite dishes online and pick them up within 15 minutes of placing their order.
+The best part? Visitors can fill out a straightforward order form and pick up their meal within 15 minutes! Explore our easy-to-navigate site, choose your favorite, and get ready for a quick and delightful chicken experience!
 
 The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.io/TheChickenBar/)
 
 ![Am I Responsive Image](../TheChickenBar/README/img/thechickenbar.webp)
 
-## Project Goals
+## Project and Site Owner Goals
 
 Our goal is not just to create another website. 
 
@@ -25,9 +23,11 @@ We want our visitors to be able to almost smell and taste our dishes while brows
 
 When you're hungry, you want food right away, ordering food online should be easy, quick, and secure.
 
+The entire menu revolves around the delectable world of chicken. However, on Sundays, we switch things up and proudly serve a tantalizing array of mixed grilled meats.
+
 ## Target Audience
 
-- who appreciate high-quality, flavorful meat dishes.
+- Hungry people who appreciate high-quality, flavorful chicken and meat dishes.
 
 - Time-strapped families seeking practical, healthy, and budget-friendly meal solutions for quick lunches or dinners mid-week or on weekend outings.
 
@@ -35,47 +35,24 @@ When you're hungry, you want food right away, ordering food online should be eas
 
 - Busy professionals on the go who desire a quick and healthy lunch option during their limited lunch break.
 
-## Features and User Experience
-
-### Existing Features
-
-- __Header - Navigation Bar and clickable logo__
-
-  - The header is made up of two parts: a clickable logo on the left and a navigation bar on the right.
-
-  - The header is present throughout the entire website on every page. Visitors can easily navigate from page to page.
-
-  - The header is responsive and on smaller screens the logo will get smaller and the navigation bar will be presented vertically.
-
-### Desktop:
-
-![Header](README/img/chickenbar-navbar.png)
-
-### Mobile:
-
-![Header](README/img/chickenbar-navbar-mob.png)
-
-- __Home Page - Welcome__
-
-  - 
-  - 
-
-
-![Home Page](README/img/chickenbar-home.png)
-
--------------------------
-
-## Site Owner Goals 
-
-
 ## User Stories
+
 - ### First time user
   
+  As a first-time user, I would like to know:
+  
+  - The types of food and prices offered by The Chicken Bar. 
+  - I am curious about the location and the estimated cooking time for my dish. 
+  - Additionally, I would like to understand whether I need to pick up my meal or if delivery is an option.
+  - I hope to intuitively navigate the website and have a positive emotional experience
 
 - ### Returning User
-  
-- ### Frequent User
-  
+
+  As a frequent user:
+
+  - I want to easily place an order.
+  - I want to see different exciting dishes. 
+  - I want to enjoy extras and freebies, and feel special.
 
 ## Design
 
@@ -97,7 +74,11 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
 - ### Navigation
 
-    - The fully responsive navigation bar includes links to the Home, Menu and Order pages.
+  - The header is made up of two parts: a clickable logo on the left and a navigation bar on the right.
+
+  - The header is present throughout the entire website on every page. Visitors can easily navigate from page to page.
+
+  - The header is responsive and on smaller screens the logo will get smaller and the navigation bar will be presented vertically.
 
 ### Desktop:
 
@@ -136,6 +117,9 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 - I want to replace all the main pictures with videos to make the user experience better.
 - Make the order form simpler. Instead of typing what you want to order, you should be able to click and choose the number of meals from each dish.
 - Burger button for the mobile nav bar.
+- Adding prices
+- Checkout and onsite payment methods.
+- Adding a delivery section.
 
 ## Testing
 

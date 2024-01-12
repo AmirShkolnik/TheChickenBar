@@ -132,26 +132,35 @@ When you're hungry, you want food right away, ordering food online should be eas
 ### Validator Testing
 - #### HTML
     - No errors were returned when passing through the official W3C Markup Validator
-        - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
-        https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fmenu.html
+[W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2F)
+[W3C Validator Results - Menu Page] https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fmenu.html
         https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Forder.html
         https://validator.w3.org/nu/?doc=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fthank-you.html
 
-        - ![W3C Validator Results](README/img/html-checker-chicken.png)
+[W3C Validator Results](README/img/html-checker-chicken.png)
 
-- #### CSS
-    - No errors were found when passing through the official W3C CSS Validator 
-        - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+#### CSS
 
-       ![W3C CSS Validator Results](README/img/css-valid-chicken.png)
-- #### Accessibility 
-    - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
+- [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famirshkolnik.github.io%2FTheChickenBar%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - No errors were found when passing through the official W3C CSS Validator, see below or click the link.
 
-![Lighthouse score](xxx)
+##### W3C CSS Validator Results
 
+![W3C CSS Validator Results](README/img/css-valid-chicken.png)
+
+#### Accessibility 
+
+- The site achieved a Lighthouse accessibility score of 100% for mobile and pc which confirms that the colours and fonts chosen are easy to read and accessible.
+
+##### Lighthouse Score For PC
+
+![Lighthouse Score For PC](README/img/thechickenbar-lighthouse-pc.png)
+
+##### Lighthouse Score For Mobile
+
+![Lighthouse Score For Mobile](README/img/thechickenbar-lighthouse-mobile.png)
 
 ### Form Testing
-- The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
+- I checked the form to make sure you can't send it unless you fill in the necessary information like your name, email address, phone number and "What Do You Wish To Order?".
 
 ### Links Testing
 - I checked all the navigation links to make sure they take the user to the right parts of the website.

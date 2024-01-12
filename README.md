@@ -178,25 +178,21 @@ Friends and family were asked to check the site and documents for any problems o
 
  - When I initially implemented the text sections for the home and the thank you pages, I set them with a width of 100%. All testers found the result annoying because the text was taking up too much space and testers had difficulty reading and enjoying the site. I changed the width to 70%.
 
+ #### Responsive Map
+
+I encountered an issue where adding Google Maps using an iframe was not responsive on many screens. After placing the iframe inside two divs and modifying the size using media queries in the CSS file, I was able to make the map size responsive.
+
 ### Fixed Bugs
 
 #### Using Class Instead of ID
 
 When I first made my menu page, I used the same ID for all the dishes. This caused an error because the ID had to be unique. After learning the difference between IDs and classes, I fixed the error.
 
-#### Responsive Map
-
-
-Order form - phone number format 123-45-678 is to complicated. We are not use to use "-" this must be fixed. 
-
-With the hep of 
-Thank you page text section is to wide for bigger screens
-
 ### Known Bugs
 
+No, everything is working as it should.
 
 ## Technologies Used
-
 
 ### Languages
 - HTML5
@@ -245,7 +241,7 @@ I got inspired for the content and design from the following websites:
 - [Mediterran](https://www.mediterraneanliving.com/grilled-turmeric-chicken/)
 
 ### Media
-I used videos, images, vectors, and illustrations from the following websites with thanks to the amazing photographers who created them.:
+I used images, vectors, and illustrations from the following websites with thanks to the amazing photographers who created them.:
 
 - [Pexels](https://www.pexels.com/)
     - Dee Dave - Home page - Hero Image
@@ -259,9 +255,6 @@ I used videos, images, vectors, and illustrations from the following websites wi
     - Christine Cleireny - Menu Page - Grilled Chicken Breast
     - ENESFİLM - Menu Page - Mix Grill
     - Valeriia Yevchinets - Order Page - Hero Image
-    - Athal Kumar - Menu - Video
-    - Karolina Grabowska - Home Page - Video
-    - RDNE Stock project - Thank You - Video
 
 - [Pixaby](https://pixaby.com/)
     - 13smok - Logo illustraion/vectors

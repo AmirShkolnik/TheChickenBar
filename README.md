@@ -154,8 +154,10 @@ When you're hungry, you want food right away, ordering food online should be eas
 - The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
 
 ### Links Testing
-- All navigation links were tested manually to ensure the user is directed to the correct section of the website.
-- Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
+- I checked all the navigation links to make sure they take the user to the right parts of the website.
+- I manually tested the links on the menu page to ensure users go to the order form correctly.
+- I tested the order form to make sure that after submitting, users are taken to the thank you page.
+- I also inspected the Social Media links at the bottom of each page to make sure they take the user to the right page and open in a new tab.
 
 ### Browser Testing
 - I checked the website on Google Chrome, Firefox, Microsoft Edge, and Safari browsers, and everything was fine with no problems.

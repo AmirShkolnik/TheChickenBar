@@ -82,11 +82,11 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
 ### Desktop:
 
-![Header](README/img/thechickenbar-footer-2.png)
+![Header](README/img/chickenbar-navbar.png)
 
 ### Mobile:
 
-![Header](README/img/thechickenbar-header-menu-mobile.png)
+![Header](README/img/thechickenbar-nav-menu-mobile.png)
 
 ### The Home / Welcome Page
   - The home page has an image with a welcoming headline. Right away, visitors feel like they're in the right place. This section gives users a clear visual idea of what the site is all about.
@@ -111,7 +111,7 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
 - The footer contains our logo, contact information, and social media links. Clicking on them will open new tabs with the relevant social channels like Yotube, Instagram and Meta/Facebook.
 
-![Footer image](README/img/thechickenbar-footer.png)
+![Footer image](README/img/thechickenbar-footer-2.png)
 
 ### Features Left to Implement
 - I want to replace all the main pictures with videos to make the user experience better.

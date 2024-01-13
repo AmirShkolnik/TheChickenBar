@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-![chicken bar logo](/assets/images/chicken-bar-logo.png) 
-=======
-![chicken bar logo](assets/images/chicken-bar-logo.png) 
->>>>>>> a8ea0a6 (readme - fix logo path)
+![chicken bar logo](/assets/images/chicken-bar-logo.png)
 
 # The Chicken Bar 
 
@@ -86,11 +82,11 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
 ### Desktop:
 
-![Header](README/img/chickenbar-navbar.png)
+![Header](README/img/thechickenbar-footer-2.png)
 
 ### Mobile:
 
-![Header](README/img/chickenbar-navbar-mob.png)
+![Header](README/img/thechickenbar-header-menu-mobile.png)
 
 ### The Home / Welcome Page
   - The home page has an image with a welcoming headline. Right away, visitors feel like they're in the right place. This section gives users a clear visual idea of what the site is all about.

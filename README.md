@@ -91,7 +91,7 @@ The Chicken Bar is full of colorful images showcasing grilled chicken and delici
 ### The Home / Welcome Page
   - The home page has an image with a welcoming headline. Right away, visitors feel like they're in the right place. This section gives users a clear visual idea of what the site is all about.
 
-![Landing page image](README/img/thechickenbar-home-page.png)
+![Landing page image](README/img/thechickenbar-welcome.png)
 
 ### The Menu Page
 

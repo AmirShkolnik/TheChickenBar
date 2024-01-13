@@ -1,4 +1,3 @@
-
 ![chicken bar logo](/assets/images/chicken-bar-logo.png)
 
 # The Chicken Bar 
@@ -44,7 +43,7 @@ The entire menu revolves around the delectable world of chicken. However, on Sun
   - The types of food and prices offered by The Chicken Bar. 
   - I am curious about the location and the estimated cooking time for my dish. 
   - Additionally, I would like to understand whether I need to pick up my meal or if delivery is an option.
-  - I hope to intuitively navigate the website and have a positive emotional experience
+  - I hope to intuitively navigate the website and have a positive emotional experience.
 
 - ### Returning User
 
@@ -68,7 +67,8 @@ The Chicken Bar is full of colorful images showcasing grilled chicken and delici
 
 ### Fonts
 
-The main font used on the entire site is called 'Inter.' Additionally, I have Sans Serif set up as a backup font. This way, if, for some reason, the main font doesn't load correctly on the site, Sans Serif will be used instead.
+- The main font used on the entire site is called 'Inter.' 
+- Additionally, I have Sans Serif set up as a backup font. This way, if, for some reason, the main font doesn't load correctly on the site, Sans Serif will be used instead.
 
 ## Features
 
@@ -82,7 +82,7 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
 ### Desktop:
 
-![Header](README/img/chickenbar-navbar.png)
+![Header](README/img/thechickenbar-headerfor-desktop.png)
 
 ### Mobile:
 
@@ -97,7 +97,7 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
   - The menu page contains seven different kinds of dishes that the customer can choose from. They can select their favorite dish and click the order button, which will lead them to the order page where they can place an order.
 
-![Menu Page Image](README/img/thechickenbar-menu-page.png)
+![Menu Page Image](README/img/thechickenbar-menu.png)
     
 ### The Order Page
 
@@ -105,7 +105,13 @@ The main font used on the entire site is called 'Inter.' Additionally, I have Sa
 
 - The main feature on this page is the order form. By using the order form, they can place an order. The form is designed so customers must fill in all necessary fields before they can place an order.
 
-![Order Page Image](README/img/thechickenbar-order-page.png)
+![Order Page Image](README/img/thechickenbar-order.png)
+
+### The Thank Page
+
+- After filling out the order form, the customer will be forwarded to a thank you/confirmation page to ensure that their order has been received and will be ready within 15 minutes.
+
+![Thank You Page Image](README/img/thechickenbar-thank-you.png)
 
 ### Footer
 

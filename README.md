@@ -271,7 +271,7 @@ The live link can be found here - [The Chicken Bar](https://amirshkolnik.github.
 ## Credits
 
 ### Content
-I got inspired for the template and design from the following websites:
+I got inspired for the template, code and design from the following websites:
 
 - [Chick Demo](https://chik-demo.myshopify.com/)
 - [Treatos Demo](https://preview.themeforest.net/item/treatos-authentic-restaurant-theme/full_screen_preview/25629199?_ga=2.149811830.1152558158.1704960033-426616010.1703934873)
@@ -283,6 +283,14 @@ I got inspired for the content and design from the following websites:
 - [Wendy](https://www.wendys.com/en-uk/)
 - [Galitos](https://galitoschicken.com/)
 - [Mediterran](https://www.mediterraneanliving.com/grilled-turmeric-chicken/)
+
+I got inspired for the code from the following websites:
+
+- Love Running - Code Institute course  example
+
+I got inspiration for the README structure from Mind Yoga, as recommended by my mentor.:
+
+- [Mind Yoga](https://github.com/AliOKeeffe/mindyoga)
 
 ### Media
 I used images, vectors, and illustrations from the following websites with thanks to the amazing photographers who created them.:

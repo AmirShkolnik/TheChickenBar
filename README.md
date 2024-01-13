@@ -107,7 +107,7 @@ The Chicken Bar is full of colorful images showcasing grilled chicken and delici
 
 ![Order Page Image](README/img/thechickenbar-order.png)
 
-### The Thank Page
+### The Thank You Page
 
 - After filling out the order form, the customer will be forwarded to a thank you/confirmation page to ensure that their order has been received and will be ready within 15 minutes.
 
@@ -184,6 +184,19 @@ The website worked as I wanted it to. I also used Chrome developer tools on all 
 
 ### User Experience - Friends and Family User Testing
 Friends and family were asked to check the site and documents for any problems or issues.
+
+#### Header
+ 
+ - Adding a padding-top of 15px to the header section was necessary. On some devices, such as iPhone 6, 8, and Pixel 7, the logo was very close to the top and didn't look good.
+
+ Before
+
+ ![Header Before Change](README/img/thechickenbar-header-menu-mobile.png)
+
+ After
+
+![Header After Change](README/img/thechickenbar-nav-menu-mobile.png)
+
 
 #### Order Form
 

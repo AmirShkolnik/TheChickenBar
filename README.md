@@ -247,6 +247,14 @@ No, everything is working as it should.
 - [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
+### Commits and README.md
+
+While working on this project, I learned two main things for the next project:
+
+- I must be more descriptive in my commit comments for easier understanding and finding all the changes, both for myself and my future team.
+
+- I should start documenting while working on the project and not after the project is done. It will save time and be much more accurate with my documentation
+
 ## Deployment
 
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:

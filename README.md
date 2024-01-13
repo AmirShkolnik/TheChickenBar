@@ -245,8 +245,7 @@ No, everything is working as it should.
 - [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
 - [Convertio](https://convertio.co/) - Used to convert and compress images to reduce file size without a reduction in quality.
 - [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor
-
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ## Deployment
 

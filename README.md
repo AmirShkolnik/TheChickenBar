@@ -189,11 +189,11 @@ Friends and family were asked to check the site and documents for any problems o
  
  - Adding a padding-top of 15px to the header section was necessary. On some devices, such as iPhone 6, 8, and Pixel 7, the logo was very close to the top and didn't look good.
 
- Before
+ Before The Change:
 
  ![Header Before Change](README/img/thechickenbar-header-menu-mobile.png)
 
- After
+ After The Change:
 
 ![Header After Change](README/img/thechickenbar-nav-menu-mobile.png)
 
@@ -201,6 +201,14 @@ Friends and family were asked to check the site and documents for any problems o
 #### Order Form
 
  - When asking for phone numbers on the order form, some testers found the 123-45-678 format confusing. They couldn't enter "-" symbols on their mobile devices. So, I changed the format to 1112223333, which is easier to enter on both mobile and desktop devices.
+
+  Before The Change:
+
+  ![Header Before Change](README/img/thechickenbar-order-form.png)
+
+  After The Change:
+
+  ![Header Before Change](README/img/thechickenbar-order-form-new.png)
 
 #### Home and Thank You Page Text On Large Screen
 
